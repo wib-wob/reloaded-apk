@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="no"?>
 <configuartion-list>
   <configuration key="HSP_LAUNCHING_ZONE" value="REAL-TOAST"/>
-  <configuration key="HSP_DEBUG_LEVEL" value="LOG"/>
+  <configuration key="HSP_DEBUG_LEVEL" value="VERBOSE"/>
   <configuration key="HSP_RESEND_FAILED_DATA" value="true"/>
   <configuration key="HSP_TIMEOUT_TCP" value="30"/>
   <configuration key="HSP_TIMEOUT_HTTP" value="30"/>
